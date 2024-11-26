@@ -8,5 +8,5 @@ func _init(_id, _spawn_position, _positions):
 	id = _id
 	spawn_position = _spawn_position
 	positions = _positions
-func _to_string():
-	return "ID: " + str(id) + ", location: " + str(positions)
+#func _to_string():
+	#return "ID: " + str(id) + ", location: " + str(positions)
